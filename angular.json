@@ -137,5 +137,8 @@
             }
         }
     },
-    "defaultProject": "mogram"
+    "defaultProject": "mogram",
+    "cli": {
+      "analytics": false
+    }
 }
